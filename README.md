@@ -1,5 +1,7 @@
 # 🛩️ Tello EDU – Control & Follow
 
+![Tello EDU Demo](./docs/demo_vid.gif)
+
 PC-gesteuertes Python-Skript für die Ryze Tello EDU mit Echtzeit-Videoanzeige, präziser manueller Steuerung und automatischer Personenverfolgung über ein YOLOv5s ONNX-Modell.  
 Enthält ein Kamera-Overlay mit Akkustand, Steuerungshinweisen und optionaler Videoaufnahme.
 
