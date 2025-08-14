@@ -1,11 +1,11 @@
-🛩️ Tello EDU – Control & Follow
+#🛩️ Tello EDU – Control & Follow
 
 PC-gesteuertes Python-Skript für die Ryze Tello EDU mit Echtzeit-Videoanzeige, präziser manueller Steuerung und automatischer Personenverfolgung über ein YOLOv5s ONNX-Modell.  
 Enthält ein Kamera-Overlay mit Akkustand, Steuerungshinweisen und optionaler Videoaufnahme.
 
 ---
 
-✨ Funktionen
+##✨ Funktionen
 - **Manuelle Steuerung in Echtzeit** über Tastatur  
 - **Automatische Personenverfolgung** mit YOLOv5s (ONNX)  
 - **Echtzeit-Videoanzeige** mit Overlay (Akku, Steuerung, Status)  
@@ -15,7 +15,7 @@ Enthält ein Kamera-Overlay mit Akkustand, Steuerungshinweisen und optionaler Vi
 
 ---
 
-🛠️ Voraussetzungen
+##🛠️ Voraussetzungen
 
 ### Hardware
 - **Ryze Tello EDU** Drohne  
@@ -30,7 +30,7 @@ Enthält ein Kamera-Overlay mit Akkustand, Steuerungshinweisen und optionaler Vi
 
 ---
 
-📦 Zusätzliche Ressourcen
+##📦 Zusätzliche Ressourcen
 
 - **YOLOv5s ONNX-Modell** *(erforderlich für Personenverfolgung)*  
   Selbst herunterladen und in denselben Ordner wie "drone_follow.py" legen.  
